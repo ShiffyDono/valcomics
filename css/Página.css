@@ -1,0 +1,205 @@
+navbar {
+	background-color: #fff;
+}
+.align-items-right {
+}
+#background {
+}
+.display-4.lead.col-lg-5 {
+	font-family: "Phudu Black", "Phudu ExtraBold", "Phudu Light", "Phudu Medium", "Phudu SemiBold";
+	color: #FFFFFF;
+	font-size: 85px;
+}
+.lead.col-lg-5 {
+	color: #FFFFFF;
+	font-style: normal;
+	font-weight: bolder;
+	font-size: 12pt;
+}
+.jumbotron.jumbotron-fluid #texto-escrito {
+	background-color: #060606;
+	opacity:.7;
+	border-top-right-radius: 42px;
+	border-bottom-right-radius: 42px;
+	border-top-left-radius: 0px;
+	
+}
+.btn.btn-primary.btn-lg {
+	font-family: "Phudu Black", "Phudu ExtraBold", "Phudu Light", "Phudu Medium", "Phudu SemiBold";
+	border-radius: 68px;
+	
+}
+
+
+
+.nav-link {
+	color: #000000;
+	font-family: "Phudu Black", "Phudu ExtraBold", "Phudu Light", "Phudu Medium", "Phudu SemiBold";
+}
+#titulosmedios {
+	font-family: "Phudu Black", "Phudu ExtraBold", "Phudu Light", "Phudu Medium", "Phudu SemiBold";
+	text-align: center;
+	font-size: 24pt;
+}
+.card-img-top {
+	width: 200px;
+	height: 300px;
+	margin: auto;
+	text-align: center;
+}
+#conocea {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #D0CECE;
+}
+
+#description   {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#character {
+	font-family: "Phudu Black", "Phudu ExtraBold", "Phudu Light", "Phudu Medium", "Phudu SemiBold";
+	font-size: 55px;
+	font-style: italic;
+	font-variant: normal;
+}
+
+
+.card-body {
+	font-family: "Phudu Black", "Phudu ExtraBold", "Phudu Light", "Phudu Medium", "Phudu SemiBold";
+	font-size: 50px;
+	margin-left: 25px;
+}
+.card-title {
+	font-size: 30px;
+}
+
+
+
+
+
+
+.jumbotron.jumbotron-fluid {
+	background-image: url(../images/6.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.titulos {
+}
+.titulospj {
+	font-family: "Phudu Black", "Phudu ExtraBold", "Phudu Light", "Phudu Medium", "Phudu SemiBold";
+	font-size: 41pt;
+	font-style: italic;
+}
+.conocea {
+	color: #C8C7C7;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: 30px;
+}
+.colornavbar {
+}
+
+#Footercolors {
+}
+.navbar-nav.mr-auto .nav-item .nav-link.disabled {
+	text-align: center;
+}
+
+
+.description {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: lighter;
+	font-size: large;
+}
+#Footercolors {
+}
+.bg-Black {
+}
+.dark {
+}
+.center {
+}
+.align-center {
+}
+.colornavbar {
+}
+.bg-light {
+}
+.navbar.navbar-expand-lg.lead {
+	background-color: #000000;
+	color: #FFFFFF;
+}
+.namesfote {
+}
+.nav-link.namesfoter {
+	color: #8C8C9B;
+}
+
+
+.navbar-nav.mr-auto .nav-item .nav-link.disabled {
+	color: #000000;
+}
+.rounded-circle.img-fluid {
+	width: 30px;
+	height: 30px;
+	background-color: #060606;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	justify-content: center;
+	margin-top: 17px;
+}
+.navbar.navbar-expand-lg.lead div .nav-link.namesfoter {
+	margin: center;
+	font-size: 17px;
+}
+
+footer {
+	background-color: #000000;
+	justify-content: center;
+  margin: 1 1 1rem;
+  height: 5rem;
+  display: flex;
+  align-items: start;
+}
+.navbar-toggler-icon-dark {
+}
+.titulospj2 {
+	font-family: Phudu, "Phudu Black", "Phudu ExtraBold", "Phudu Light", "Phudu Medium", "Phudu SemiBold";
+}
+#accordion1 {
+	width: auto;
+	height: 50px;
+	color: #007BFF;
+}
+.whoss {
+	color: #007BFF;
+	text-align: center;
+	font-size: 81px;
+}
+.imagesjustice {
+	height: auto;
+	width: 155px;
+}
+.namesjustice {
+	color: #000000;
+	font-size: 31px;
+	text-align: center;
+}
+.navbar.navbar-expand-lg.lead div .nav-link.namesfoter {
+	font-size: 15px;
+}
+.container .row.text-center .col-sm-4.col-12.p-0.col-lg-4 {
+	background-image: url(../images/56.png);
+}
+.media .media-body .mt-0.mb-1 {
+	color: #0179F0;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+.col-lg-12.mb-4.mt-2.text-center #titulosmedios2 strong {
+	color: #007BFF;
+}
+
